@@ -33,6 +33,7 @@ A curated list of jokes, koans, comics, texts, and everything related to program
 ## Jokes
 
 - [programmer jokes](https://github.com/PauloPhagula/programmer-jokes)
+- [The Jeff Dean facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
 
 ## Accounts
 
